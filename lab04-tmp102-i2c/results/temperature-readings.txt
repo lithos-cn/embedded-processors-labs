@@ -1,0 +1,40 @@
+Temperature in Celsius = 28.500
+
+Temperature = 456
+
+Temperature in Celsius = 28.500
+
+Temperature = 456
+
+Temperature in Celsius = 28.500
+
+Temperature = 528
+
+Temperature in Celsius = 33.000
+
+Temperature = 525
+
+Temperature in Celsius = 32.813
+
+Temperature = 525
+
+Temperature in Celsius = 32.813
+
+Temperature = 525
+
+Temperature in Celsius = 32.813
+
+Temperature = 525
+
+Temperature in Celsius = 32.813
+
+Temperature = 525
+
+Temperature in Celsius = 32.813
+
+Temperature = 525
+
+Temperature in Celsius = 32.813
+
+Temperature = 525
+

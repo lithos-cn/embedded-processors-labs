@@ -1,0 +1,21 @@
+Temperature in Celsius = 30.313
+
+Temperature in Celsius = 30.250
+
+Temperature in Celsius = 30.188
+
+Temperature in Celsius = 30.125
+
+Temperature in Celsius = 30.063
+
+Temperature in Celsius = 30.063
+
+Temperature in Celsius = 30.000
+
+Temperature in Celsius = 29.938
+
+Temperature in Celsius = 29.938
+
+Temperature in Celsius = 29.875
+
+Average Temperature in Celsius = 30.075
